@@ -44,7 +44,7 @@ afterEvaluate {
                 from components.release
                 groupId = 'com.example.osmofflinemap' //groupId 随便取
                 artifactId = 'example'  //artifactId 随便取
-                version = '1.0.0'
+                version = '1.1'
             }
         }
     }
